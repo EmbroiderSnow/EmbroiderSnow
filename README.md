@@ -8,3 +8,4 @@ Currently, I am looking to expand my horizons into **Machine Learning** and am d
 
 **🛠 Tech Stack** C/C++ • Python • Go • JavaScript/TypeScript
 
+**Email** zybi@stu.pku.edu.cn
